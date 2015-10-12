@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">Plataforma PUC Minas</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title">Guia de cursos da PUC Minas</string>
+    <string name="get_list_button">Lista de cursos</string>
+    <string name="get_tweet">Ver Tweets da PUC Minas</string>
+
+    <string name="unidades_title">Lista de Unidades da PUC Minas</string>
+
+    <string-array name="unidades_list">
+        <item>Arcos</item>
+        <item>Barreiro</item>
+        <item>Betim</item>
+        <item>Contagem</item>
+        <item>Coração Eucarístico</item>
+        <item>Poços de Caldas</item>
+        <item>São Gabriel</item>
+        <item>Serro</item>
+    </string-array>
+
+    <string-array name="arcos_list">
+        <item>Direito</item>
+    </string-array>
+
+    <string-array name="barreiro_list">
+        <item>Administração</item>
+        <item>Ciências Contábeis</item>
+        <item>Direito</item>
+        <item>Enfermagem</item>
+        <item>Engenharia Civil</item>
+        <item>Engenharia de Produção</item>
+        <item>Nutrição</item>
+        <item>Sistemas de Informação</item>
+    </string-array>
+
+    <string-array name="betim_list">
+        <item>Administração</item>
+        <item>Biomedicina</item>
+        <item>Ciências Biológicas (Bacharelado/Licenciatura)</item>
+        <item>Direito</item>
+        <item>Enfermagem</item>
+        <item>Engenharia de Produção</item>
+        <item>Fisioterapia</item>
+        <item>Medicina</item>
+        <item>Medicina Veterinária</item>
+        <item>Psicologia</item>
+        <item>Sistemas de Informação</item>
+    </string-array>
+
+    <string-array name="contagem_list">
+        <item>Administração</item>
+        <item>Ciências Contábeis</item>
+        <item>Direito</item>
+
+        <item>Engenharia Elétrica</item>
+        <item>Engenharia Mecânica</item>
+        <item>Serviço Social</item>
+        <item>Sistemas de Informação</item>
+    </string-array>
+
+    <string-array name="coracao_eucaristico_list">
+        <item>Administração</item>
+        <item>Administração - Praça da Liberdade</item>
+        <item>Arquitetura e Urbanismo</item>
+        <item>Ciência da Computação</item>
+        <item>Ciências Biológicas (Bacharelado/Licenciatura)</item>
+        <item>Ciências Contábeis</item>
+        <item>Ciências Econômicas</item>
+        <item>Ciências Sociais (Bacharelado/Licenciatura)</item>
+        <item>Comunicação Social - Cinema e Audiovisual</item>
+        <item>Comunicação Social - Jornalismo</item>
+        <item>Comunicação Social - Publicidade e Propaganda</item>
+        <item>Comunicação Social - Relações Públicas</item>
+        <item>Direito</item>
+        <item>Direito - Praça da Liberdade</item>
+        <item>Educação Física</item>
+        <item>Enfermagem</item>
+        <item>Engenharia Civil</item>
+        <item>Engenharia de Controle e Automação</item>
+        <item>Engenharia de Energia</item>
+        <item>Engenharia de Produção</item>
+        <item>Engenharia Elétrica</item>
+        <item>Engenharia Eletrônica e de Telecomunicação</item>
+        <item>Engenharia Mecânica</item>
+        <item>Engenharia Mecânica com ênfase em Mecatrônica</item>
+        <item>Engenharia Metalúrgica</item>
+        <item>Engenharia Química</item>
+        <item>Filosofia (Bacharelado/Licenciatura)</item>
+        <item>Física (Licenciatura)</item>
+        <item>Fisioterapia</item>
+        <item>Fonoaudiologia</item>
+        <item>Geografia (Bacharelado/Licenciatura)</item>
+        <item>História (Bacharelado/Licenciatura)</item>
+        <item>Letras (Bacharelado/ Licenciatura em Português, e/ou Português/Inglês)</item>
+        <item>Matemática (Licenciatura)</item>
+        <item>Odontologia</item>
+        <item>Pedagogia (Licenciatura)</item>
+        <item>Psicologia</item>
+        <item>Relações Internacionais</item>
+        <item>Serviço Social</item>
+        <item>Teologia</item>
+    </string-array>
+
+
+    <string-array name="pocos_de_caldas_list">
+        <item>Administração</item>
+        <item>Arquitetura e Urbanismo</item>
+        <item>Ciência da Computação</item>
+        <item>Comunicação Social - Publicidade e Propaganda</item>
+        <item>Direito</item>
+        <item>Enfermagem</item>
+        <item>Engenharia Civil</item>
+        <item>Engenharia de Produção</item>
+        <item>Engenharia Elétrica</item>
+        <item>Fisioterapia</item>
+        <item>Medicina Veterinária</item>
+        <item>Psicologia</item>
+        <item>Relações Internacionais</item>
+    </string-array>
+
+    <string-array name="sao_gabriel_list">
+        <item>Ciências Contábeis</item>
+        <item>Comunicação Social - Jornalismo</item>
+        <item>Comunicação Social - Publicidade e Propaganda</item>
+        <item>Direito</item>
+        <item>Engenharia Civil</item>
+        <item>Engenharia de Computação</item>
+        <item>Psicologia</item>
+        <item>Sistemas de Informação</item>
+    </string-array>
+
+    <string-array name="serro_list">
+        <item>Direito</item>
+    </string-array>
+
+</resources>
